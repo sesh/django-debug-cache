@@ -1,4 +1,4 @@
 django-debug-cache
 ==================
 
-Add logging to your django cache
+A Django cache backend that adds logging for extra awesomeness during development.
